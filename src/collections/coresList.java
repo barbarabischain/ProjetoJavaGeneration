@@ -1,9 +1,7 @@
 package collections;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
-
 public class coresList
 {
 	public static void main(String[] args)
@@ -15,7 +13,6 @@ public class coresList
 		// Cria a Collection Arraylist do tipo String
 		ArrayList<String> lista = new ArrayList<String>();
 		// Cria um objeto da Classe Wrapper String 
-		
 		i = 0;
 		while(i < 5)
 		{
